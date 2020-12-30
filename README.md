@@ -4,7 +4,7 @@
 
 Vue 版仿网易云音乐，
 
-[项目预览](http://catbk.cn:3000)
+[项目预览](https://music.catbk.cn)
 
 #### 软件架构
 
